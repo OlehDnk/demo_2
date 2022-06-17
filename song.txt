@@ -2,8 +2,6 @@ sword and spear
 wall of shields
 standing strong
 on this their chosen battle field
-<<<<<<< HEAD
- 
  
 Dadeul eonjebuteonga
 Malhane uril choegorago
@@ -12,7 +10,6 @@ Ijen mugeopgiman hae
 Noraega joatdago
 Geujeo dallil ppunirago
 Promise that we'll keep on comin' back for more
-=======
 
- fjkksdfskdlfjksfks
->>>>>>> feature
+
+for tag only!
